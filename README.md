@@ -1,4 +1,4 @@
-# Pi Day Programming Project Template
+# Pi Day Programming Contest Template
 This project implements a template you can use for the Pi day programming contest. It uses the [mpmath](https://mpmath.org/) library for arbitrary-precision arithmetic.
 ## Getting Started
  To get ready, do the following:
